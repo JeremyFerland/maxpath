@@ -1,0 +1,17 @@
+{
+	"pattrstorage" : 	{
+		"name" : "arduinoShit",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"serial.port" : [ 2 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
